@@ -13,7 +13,7 @@ import csv
 from utils import save_plot
 from report_generator import create_analysis_report
 
-def fetch_combined_network_data(iit_name="IIT Bombay", nit_name="NIT Trichy", max_professors=8, papers_per_professor=5):
+def fetch_combined_network_data(iit_name="IIT Madras", nit_name="NIT Trichy", max_professors=2, papers_per_professor=3):
     """
     Fetch data for a combined citation network between professors at specified IIT and NIT.
     
@@ -619,7 +619,7 @@ def visualize_citation_network(G, network_data, output_prefix="iit_nit"):
     input("Press Enter to continue to the next visualization...")
     plt.close()
 
-def run_full_analysis(iit_name="IIT Bombay", nit_name="NIT Trichy", use_cache=True):
+def run_full_analysis(iit_name="IIT Madras", nit_name="NIT Trichy", use_cache=True):
     """Run the full citation network analysis workflow"""
     cache_file = f"{iit_name.replace(' ', '_')}_{nit_name.replace(' ', '_')}_network.json"
     
@@ -661,7 +661,7 @@ def run_full_analysis(iit_name="IIT Bombay", nit_name="NIT Trichy", use_cache=Tr
 if __name__ == "__main__":
     # You can customize these institutions
     G, network_data, analysis = run_full_analysis(
-        iit_name="IIT Bombay", 
+        iit_name="IIT Madras", 
         nit_name="NIT Trichy",
         use_cache=True  # Set to False to fetch fresh data
     )
