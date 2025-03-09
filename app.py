@@ -13,7 +13,7 @@ import csv
 from utils import save_plot
 from report_generator import create_analysis_report
 
-def fetch_combined_network_data(iit_name="IIT Madras", nit_name="NIT Trichy", max_professors=2, papers_per_professor=3):
+def fetch_combined_network_data(iit_name="IIT Madras", nit_name="NIT Trichy", max_professors=10, papers_per_professor=10):
     """
     Fetch data for a combined citation network between professors at specified IIT and NIT.
     
@@ -244,7 +244,8 @@ def analyze_eigenvector_centrality(G):
     """Calculate eigenvector centrality handling directed graphs"""
     try:
         # First try with the directed graph
-        eigenvector_centrality = nx.eigenvector_centrality_numpy(G)
+        G_undirected = G.to_undirected()
+        eigenvector_centrality = nx.eigenvector_centrality_numpy(G_undirected)
         
         # If all values are 0, try with undirected version
         if all(v == 0 for v in eigenvector_centrality.values()):
