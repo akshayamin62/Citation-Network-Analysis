@@ -23,7 +23,6 @@ Clone this repository and install the required dependencies:
 ```bash
 git clone https://github.com/yourusername/citation-network-analysis.git
 cd citation-network-analysis
-pip install -r requirements.txt
 ```
 
 ## Usage
@@ -69,9 +68,7 @@ python visualize_metrics.py
 - Expand to more institutions
 - Enhance citation retrieval from Google Scholar
 
-## License
-This project is licensed under the MIT License.
 
 ---
-Developed by **Your Name**
+Developed by **devesh1217 and akshayamin62**
 
