@@ -1,74 +1,96 @@
-# Citation Network Analysis for IIT Madras & NIT Trichy
+# Citation Network Analysis
 
-This repository provides a complete analysis of citation networks between **IIT Madras** and **NIT Trichy** using **NetworkX, Scholarly API, and Matplotlib**. The project fetches data from Google Scholar, constructs a directed citation network, analyzes key centrality metrics, and visualizes the results.
+A Python-based tool for analyzing academic citation networks between institutions, focusing on comparing research impact between different institutions.
 
 ## Features
-- **Fetch Google Scholar Data**: Retrieve research papers of professors from IIT Madras & NIT Trichy.
-- **Build Citation Network**: Construct a directed graph where nodes are papers and edges represent citations.
-- **Compute Network Metrics**:
-  - Eigenvector Centrality
-  - Betweenness Centrality
-  - Closeness Centrality
-  - PageRank
-  - HITS Algorithm (Hubs & Authorities)
-- **Visualizations**:
-  - Citation Network Graph
-  - Institution Citation Matrix (Heatmap)
-  - Professor Citation Bar Chart
-  - Yearly Citation Trends
-  - Centrality Distributions
 
-## Installation
-Clone this repository and install the required dependencies:
-```bash
-git clone https://github.com/yourusername/citation-network-analysis.git
-cd citation-network-analysis
+- Fetches academic publication data from Google Scholar
+- Builds and analyzes citation networks between institutions
+- Generates comprehensive network analysis metrics
+- Creates interactive visualizations
+- Produces detailed analysis reports
+
+## Requirements
+
 ```
-
-## Usage
-### 1. Run Full Analysis
-```bash
-python app.py
-```
-This will:
-- Fetch or load network data
-- Construct a citation network
-- Analyze centrality metrics
-- Generate plots and a report
-
-### 2. Generate a Report
-```bash
-python report_generator.py
-```
-The report will be saved in the `outputs/` directory.
-
-### 3. View Metrics Visualization
-```bash
-python visualize_metrics.py
+networkx
+matplotlib
+pandas
+numpy
+seaborn
+scholarly
+requests
 ```
 
 ## Project Structure
+
+- `app.py` - Main application with core functionality
+- `report_generator.py` - Generates comprehensive analysis reports
+- `utils.py` - Utility functions for file operations and plot saving
+- `visualize_metrics.py` - Visualization functions for different metrics
+
+## Usage
+
+1. Install dependencies:
+```bash
+pip install networkx matplotlib pandas numpy seaborn scholarly requests
 ```
-📂 citation-network-analysis
- ├── app.py                  # Main script for analysis
- ├── report_generator.py      # Generates a text-based report
- ├── visualize_metrics.py     # Visualizes network statistics
- ├── utils.py                 # Helper functions (saving plots, etc.)
- ├── requirements.txt         # Python dependencies
- ├── 📂 plots                 # Stores generated visualizations
- ├── 📂 outputs               # Stores reports and data outputs
+
+2. Run the analysis:
+```python
+from app import run_full_analysis
+
+# Run analysis for two institutions
+G, network_data, analysis = run_full_analysis(
+    iit_name="IIT Madras",
+    nit_name="NIT Trichy",
+    use_cache=True  # Set to False to fetch fresh data
+)
 ```
 
-## Example Output
-**Citation Network Visualization**
-![Citation Network](plots/iit_nit_citation_network.png)
+## Analysis Metrics
 
-## Future Improvements
-- Implement **machine learning-based** citation predictions
-- Expand to more institutions
-- Enhance citation retrieval from Google Scholar
+The tool analyzes various network metrics including:
+- PageRank
+- Eigenvector Centrality
+- Betweenness Centrality
+- Closeness Centrality
+- Hub and Authority Scores
+- Cross-institution citations
+- Institution-wise citation patterns
 
+## Visualizations
 
----
-Developed by **devesh1217 and akshayamin62**
+Generated visualizations include:
+1. Citation Network Graph
+2. Institution Citation Matrix
+3. Professor Citation Analysis
+4. Citation Trends
+5. Centrality Distributions
+6. Various Metric-specific Visualizations
 
+## Output
+
+The analysis generates:
+- Interactive network visualizations
+- Comprehensive analysis report in text format
+- Publication and citation statistics
+- Cross-institution collaboration metrics
+- Individual professor performance metrics
+
+## File Structure
+
+```
+Project/
+├── app.py              # Main application
+├── report_generator.py # Report generation
+├── utils.py           # Utility functions
+├── visualize_metrics.py# Visualization code
+├── plots/             # Generated visualizations
+├── outputs/           # Analysis reports
+└── README.md          # Documentation
+```
+
+## Note
+
+Due to Google Scholar's rate limiting, the tool includes caching functionality. Set `use_cache=False` in `run_full_analysis()` to fetch fresh data.
