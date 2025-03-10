@@ -6,15 +6,16 @@
       "institution": "IIT Madras",
       "year": 2016,
       "cited_by": [
-        "p5",
-        "p6",
+        "p2",
         "p7",
         "p10",
-        "p56",
-        "p57",
-        "p142"
+        "p21",
+        "p55",
+        "p90",
+        "p128",
+        "p147"
       ],
-      "num_citations": 18089,
+      "num_citations": 18108,
       "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -24,15 +25,12 @@
       "institution": "IIT Madras",
       "year": 2017,
       "cited_by": [
-        "p21",
-        "p52",
-        "p122",
-        "p125",
+        "p9",
+        "p26",
         "p130",
-        "p147",
-        "p168"
+        "p140"
       ],
-      "num_citations": 10557,
+      "num_citations": 10564,
       "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -42,10 +40,12 @@
       "institution": "IIT Madras",
       "year": 2015,
       "cited_by": [
-        "p101",
-        "p147"
+        "p21",
+        "p52",
+        "p87",
+        "p166"
       ],
-      "num_citations": 4788,
+      "num_citations": 4794,
       "scholar_id": "https://iopscience.iop.org/article/10.1088/0264-9381/32/7/074001/meta",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -55,10 +55,11 @@
       "institution": "IIT Madras",
       "year": 2019,
       "cited_by": [
-        "p127",
-        "p128"
+        "p56",
+        "p59",
+        "p124"
       ],
-      "num_citations": 4259,
+      "num_citations": 4266,
       "scholar_id": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031040",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -68,11 +69,12 @@
       "institution": "IIT Madras",
       "year": 2017,
       "cited_by": [
+        "p4",
         "p9",
-        "p52",
-        "p87"
+        "p60",
+        "p140"
       ],
-      "num_citations": 4101,
+      "num_citations": 4104,
       "scholar_id": "https://iopscience.iop.org/article/10.3847/2041-8213/aa91c9&title=iopscience.iop.org",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -82,12 +84,14 @@
       "institution": "IIT Madras",
       "year": 2017,
       "cited_by": [
-        "p4",
         "p21",
-        "p129",
+        "p29",
+        "p52",
+        "p57",
+        "p123",
         "p130"
       ],
-      "num_citations": 3329,
+      "num_citations": 3331,
       "scholar_id": "https://iopscience.iop.org/article/10.3847/2041-8213/aa920c/meta",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -97,13 +101,12 @@
       "institution": "IIT Madras",
       "year": 2017,
       "cited_by": [
-        "p83",
-        "p102",
-        "p130",
-        "p150",
-        "p168"
+        "p52",
+        "p122",
+        "p142",
+        "p158"
       ],
-      "num_citations": 2998,
+      "num_citations": 2999,
       "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.221101",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -113,14 +116,14 @@
       "institution": "IIT Madras",
       "year": 2016,
       "cited_by": [
-        "p2",
-        "p5",
+        "p4",
+        "p6",
         "p7",
         "p10",
-        "p52",
-        "p53",
+        "p21",
+        "p55",
         "p90",
-        "p121",
+        "p126",
         "p130"
       ],
       "num_citations": 2761,
@@ -133,10 +136,9 @@
       "institution": "IIT Madras",
       "year": 2018,
       "cited_by": [
-        "p57",
-        "p87"
+        "p26"
       ],
-      "num_citations": 2664,
+      "num_citations": 2665,
       "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.161101",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -146,10 +148,14 @@
       "institution": "IIT Madras",
       "year": 2017,
       "cited_by": [
-        "p155",
+        "p4",
+        "p55",
+        "p83",
+        "p122",
+        "p130",
         "p158"
       ],
-      "num_citations": 2500,
+      "num_citations": 2505,
       "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.141101",
       "professor_id": "t_Vg41AAAAAJ"
     },
@@ -159,7 +165,8 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p16"
+        "p20",
+        "p27"
       ],
       "num_citations": 3316,
       "scholar_id": "https://asmedigitalcollection.asme.org/heattransfer/article-abstract/125/4/567/478509",
@@ -171,11 +178,15 @@
       "institution": "IIT Madras",
       "year": 2007,
       "cited_by": [
-        "p48",
-        "p167",
-        "p170"
+        "p24",
+        "p91",
+        "p92",
+        "p97",
+        "p100",
+        "p163",
+        "p164"
       ],
-      "num_citations": 2875,
+      "num_citations": 2876,
       "scholar_id": "",
       "professor_id": "lhVJay4AAAAJ"
     },
@@ -185,12 +196,12 @@
       "institution": "IIT Madras",
       "year": 2006,
       "cited_by": [
-        "p12",
-        "p66",
-        "p95",
-        "p152"
+        "p17",
+        "p19",
+        "p81",
+        "p160"
       ],
-      "num_citations": 1706,
+      "num_citations": 1708,
       "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/01457630600904593",
       "professor_id": "lhVJay4AAAAJ"
     },
@@ -200,13 +211,8 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p20",
-        "p27",
         "p31",
-        "p39",
-        "p66",
-        "p103",
-        "p112"
+        "p134"
       ],
       "num_citations": 1446,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0017931002003484",
@@ -218,10 +224,8 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p34",
-        "p91",
-        "p114",
-        "p134"
+        "p28",
+        "p165"
       ],
       "num_citations": 1436,
       "scholar_id": "https://link.springer.com/article/10.1007/s00231-002-0382-z",
@@ -232,8 +236,11 @@
       "author": "Sarit Kumar Das",
       "institution": "IIT Madras",
       "year": 2009,
-      "cited_by": [],
-      "num_citations": 1416,
+      "cited_by": [
+        "p147",
+        "p148"
+      ],
+      "num_citations": 1417,
       "scholar_id": "https://pubs.aip.org/aip/jap/article/106/9/094312/283705",
       "professor_id": "lhVJay4AAAAJ"
     },
@@ -243,10 +250,8 @@
       "institution": "IIT Madras",
       "year": 2009,
       "cited_by": [
-        "p25",
-        "p99",
         "p109",
-        "p169"
+        "p136"
       ],
       "num_citations": 1332,
       "scholar_id": "https://aacrjournals.org/cancerres/article-abstract/69/9/3892/553313",
@@ -257,13 +262,7 @@
       "author": "Sarit Kumar Das",
       "institution": "IIT Madras",
       "year": 2003,
-      "cited_by": [
-        "p36",
-        "p70",
-        "p81",
-        "p106",
-        "p119"
-      ],
+      "cited_by": [],
       "num_citations": 1111,
       "scholar_id": "https://pubs.aip.org/aip/apl/article-abstract/83/14/2931/512527",
       "professor_id": "lhVJay4AAAAJ"
@@ -274,8 +273,11 @@
       "institution": "IIT Madras",
       "year": 2009,
       "cited_by": [
-        "p86",
-        "p97",
+        "p24",
+        "p37",
+        "p89",
+        "p95",
+        "p109",
         "p146"
       ],
       "num_citations": 852,
@@ -288,11 +290,8 @@
       "institution": "IIT Madras",
       "year": 2004,
       "cited_by": [
-        "p13",
-        "p16",
-        "p19",
-        "p38",
-        "p106"
+        "p81",
+        "p115"
       ],
       "num_citations": 762,
       "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.144301",
@@ -304,8 +303,8 @@
       "institution": "IIT Madras",
       "year": 2019,
       "cited_by": [],
-      "num_citations": 1938,
-      "scholar_id": "https://books.google.com/books?hl=en&lr=&id=VU2NDwAAQBAJ&oi=fnd&pg=PP1&dq=info:-50g5TZTgkYJ:scholar.google.com&ots=_83QmCkKtd&sig=FFBtxCT5BTnxjhQuYxVSYoC4eec",
+      "num_citations": 1942,
+      "scholar_id": "https://books.google.com/books?hl=en&lr=&id=VU2NDwAAQBAJ&oi=fnd&pg=PP1&dq=info:-50g5TZTgkYJ:scholar.google.com&ots=_83QoukLu8&sig=s_YhZyURY7k-IZB7tXPtlISNpkI",
       "professor_id": "2roOB5gAAAAJ"
     },
     "p22": {
@@ -314,13 +313,12 @@
       "institution": "IIT Madras",
       "year": 2002,
       "cited_by": [
-        "p17",
-        "p31",
-        "p34",
-        "p43",
-        "p61",
-        "p134",
-        "p164"
+        "p19",
+        "p28",
+        "p38",
+        "p39",
+        "p103",
+        "p161"
       ],
       "num_citations": 989,
       "scholar_id": "https://journals.sagepub.com/doi/abs/10.1179/095066001225001049",
@@ -332,11 +330,9 @@
       "institution": "IIT Madras",
       "year": 1998,
       "cited_by": [
-        "p62",
-        "p65",
-        "p82"
+        "p33"
       ],
-      "num_citations": 981,
+      "num_citations": 982,
       "scholar_id": "https://www.tandfonline.com/doi/abs/10.1179/imr.1998.43.3.101",
       "professor_id": "2roOB5gAAAAJ"
     },
@@ -346,12 +342,9 @@
       "institution": "IIT Madras",
       "year": 2011,
       "cited_by": [
-        "p4",
-        "p86",
-        "p107",
-        "p168"
+        "p139"
       ],
-      "num_citations": 961,
+      "num_citations": 962,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1359645410005884",
       "professor_id": "2roOB5gAAAAJ"
     },
@@ -362,7 +355,7 @@
       "year": 2012,
       "cited_by": [
         "p29",
-        "p52"
+        "p153"
       ],
       "num_citations": 438,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509311012834",
@@ -373,8 +366,11 @@
       "author": "BS Murty",
       "institution": "IIT Madras",
       "year": 2019,
-      "cited_by": [],
-      "num_citations": 418,
+      "cited_by": [
+        "p101",
+        "p123"
+      ],
+      "num_citations": 419,
       "scholar_id": "https://www.cambridge.org/core/journals/journal-of-materials-research/article/highentropy-alloys-by-mechanical-alloying-a-review/8B9B1E7CDF719FA7C418330BFEF45912",
       "professor_id": "2roOB5gAAAAJ"
     },
@@ -384,8 +380,8 @@
       "institution": "IIT Madras",
       "year": 2008,
       "cited_by": [
-        "p51",
-        "p146"
+        "p98",
+        "p114"
       ],
       "num_citations": 414,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0043164807006680",
@@ -397,13 +393,13 @@
       "institution": "IIT Madras",
       "year": 2008,
       "cited_by": [
-        "p8",
-        "p19",
         "p25",
         "p67",
-        "p105",
-        "p106",
-        "p118",
+        "p91",
+        "p97",
+        "p98",
+        "p113",
+        "p114",
         "p163"
       ],
       "num_citations": 398,
@@ -415,12 +411,7 @@
       "author": "BS Murty",
       "institution": "IIT Madras",
       "year": 2018,
-      "cited_by": [
-        "p21",
-        "p26",
-        "p87",
-        "p102"
-      ],
+      "cited_by": [],
       "num_citations": 381,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1359645418300089",
       "professor_id": "2roOB5gAAAAJ"
@@ -431,10 +422,12 @@
       "institution": "IIT Madras",
       "year": 2000,
       "cited_by": [
-        "p11",
-        "p75",
-        "p81",
-        "p88"
+        "p18",
+        "p22",
+        "p33",
+        "p71",
+        "p72",
+        "p82"
       ],
       "num_citations": 349,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509399007947",
@@ -446,8 +439,12 @@
       "institution": "IIT Madras",
       "year": 2006,
       "cited_by": [
-        "p19",
-        "p28"
+        "p28",
+        "p37",
+        "p96",
+        "p110",
+        "p112",
+        "p164"
       ],
       "num_citations": 477,
       "scholar_id": "https://www.nature.com/articles/nature04812",
@@ -469,8 +466,14 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p34",
-        "p43"
+        "p17",
+        "p31",
+        "p36",
+        "p38",
+        "p40",
+        "p67",
+        "p69",
+        "p70"
       ],
       "num_citations": 282,
       "scholar_id": "https://journals.lww.com/hep/abstract/2003/04000/hepatitis_c_virus_infection_in_the_general.14.aspx",
@@ -482,10 +485,14 @@
       "institution": "IIT Madras",
       "year": 2007,
       "cited_by": [
-        "p105",
-        "p106",
-        "p163",
-        "p164"
+        "p19",
+        "p28",
+        "p48",
+        "p100",
+        "p118",
+        "p135",
+        "p162",
+        "p163"
       ],
       "num_citations": 263,
       "scholar_id": "https://iopscience.iop.org/article/10.1088/0957-4484/18/27/275608/meta",
@@ -499,7 +506,7 @@
       "cited_by": [
         "p57"
       ],
-      "num_citations": 255,
+      "num_citations": 256,
       "scholar_id": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.596201/full",
       "professor_id": "lZNhr38AAAAJ"
     },
@@ -511,11 +518,8 @@
       "cited_by": [
         "p28",
         "p34",
-        "p66",
         "p99",
-        "p116",
-        "p131",
-        "p161",
+        "p108",
         "p162",
         "p170"
       ],
@@ -529,8 +533,8 @@
       "institution": "IIT Madras",
       "year": 2010,
       "cited_by": [
-        "p91",
-        "p154"
+        "p94",
+        "p152"
       ],
       "num_citations": 236,
       "scholar_id": "https://www.jbc.org/article/S0021-9258(19)58700-2/fulltext",
@@ -542,19 +546,10 @@
       "institution": "IIT Madras",
       "year": 2006,
       "cited_by": [
-        "p17",
-        "p24",
         "p34",
-        "p66",
-        "p67",
         "p81",
-        "p96",
-        "p99",
-        "p103",
-        "p131",
-        "p161",
-        "p165",
-        "p169"
+        "p93",
+        "p113"
       ],
       "num_citations": 236,
       "scholar_id": "https://pubs.aip.org/aip/jap/article/99/11/114303/143234",
@@ -566,11 +561,15 @@
       "institution": "IIT Madras",
       "year": 2005,
       "cited_by": [
-        "p45",
-        "p81",
-        "p100",
-        "p112",
-        "p165"
+        "p34",
+        "p38",
+        "p66",
+        "p73",
+        "p146",
+        "p161",
+        "p162",
+        "p167",
+        "p170"
       ],
       "num_citations": 236,
       "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jp045817j",
@@ -582,13 +581,12 @@
       "institution": "IIT Madras",
       "year": 2005,
       "cited_by": [
-        "p34",
-        "p36",
-        "p38",
-        "p66",
-        "p100",
-        "p134",
-        "p163"
+        "p13",
+        "p16",
+        "p31",
+        "p69",
+        "p96",
+        "p112"
       ],
       "num_citations": 218,
       "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jp053138i",
@@ -600,12 +598,13 @@
       "institution": "IIT Madras",
       "year": 2002,
       "cited_by": [
-        "p14",
-        "p73",
-        "p85",
-        "p88"
+        "p11",
+        "p40",
+        "p93",
+        "p111",
+        "p134"
       ],
-      "num_citations": 1941,
+      "num_citations": 1943,
       "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/08876040210433248/full/html",
       "professor_id": "xBzpRysAAAAJ"
     },
@@ -615,13 +614,11 @@
       "institution": "IIT Madras",
       "year": 2002,
       "cited_by": [
-        "p12",
-        "p34",
-        "p85",
-        "p114",
+        "p16",
+        "p106",
         "p115"
       ],
-      "num_citations": 792,
+      "num_citations": 793,
       "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/08876040210419398/full/html",
       "professor_id": "xBzpRysAAAAJ"
     },
@@ -631,10 +628,11 @@
       "institution": "IIT Madras",
       "year": 2004,
       "cited_by": [
-        "p37",
-        "p51",
-        "p69",
-        "p73"
+        "p34",
+        "p36",
+        "p93",
+        "p106",
+        "p164"
       ],
       "num_citations": 623,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0377221702009086",
@@ -646,7 +644,12 @@
       "institution": "IIT Madras",
       "year": 2001,
       "cited_by": [
-        "p84"
+        "p18",
+        "p41",
+        "p42",
+        "p66",
+        "p72",
+        "p111"
       ],
       "num_citations": 597,
       "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/09544120020010138",
@@ -658,12 +661,12 @@
       "institution": "IIT Madras",
       "year": 2008,
       "cited_by": [
-        "p16",
-        "p17",
-        "p48",
-        "p112",
-        "p167",
-        "p170"
+        "p54",
+        "p98",
+        "p99",
+        "p105",
+        "p108",
+        "p151"
       ],
       "num_citations": 425,
       "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/14635770810903150/full/html",
@@ -675,9 +678,10 @@
       "institution": "IIT Madras",
       "year": 1999,
       "cited_by": [
-        "p30",
+        "p11",
         "p69",
-        "p84"
+        "p79",
+        "p88"
       ],
       "num_citations": 411,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S037722179800023X",
@@ -689,16 +693,10 @@
       "institution": "IIT Madras",
       "year": 2001,
       "cited_by": [
-        "p14",
-        "p20",
-        "p22",
         "p41",
         "p42",
-        "p62",
-        "p66",
-        "p68",
-        "p88",
-        "p170"
+        "p45",
+        "p73"
       ],
       "num_citations": 407,
       "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/09564230110405299/full/",
@@ -710,8 +708,8 @@
       "institution": "IIT Madras",
       "year": 2010,
       "cited_by": [
-        "p159",
-        "p167"
+        "p1",
+        "p2"
       ],
       "num_citations": 381,
       "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/14635771011089746/full/html",
@@ -724,11 +722,8 @@
       "year": 1997,
       "cited_by": [
         "p46",
-        "p61",
-        "p63",
-        "p78",
-        "p79",
-        "p82"
+        "p72",
+        "p77"
       ],
       "num_citations": 366,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0925527396000680",
@@ -740,10 +735,13 @@
       "institution": "IIT Madras",
       "year": 2001,
       "cited_by": [
-        "p63",
+        "p12",
+        "p19",
+        "p22",
+        "p41",
         "p73"
       ],
-      "num_citations": 335,
+      "num_citations": 336,
       "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/09544120120034492",
       "professor_id": "xBzpRysAAAAJ"
     },
@@ -753,13 +751,13 @@
       "institution": "IIT Madras",
       "year": 2009,
       "cited_by": [
-        "p24",
         "p54",
-        "p91",
-        "p98",
-        "p131"
+        "p94",
+        "p110",
+        "p118",
+        "p164"
       ],
-      "num_citations": 1740,
+      "num_citations": 1742,
       "scholar_id": "https://www.nejm.org/doi/full/10.1056/nejmoa0907206",
       "professor_id": "DpJp9HoAAAAJ"
     },
@@ -769,11 +767,11 @@
       "institution": "IIT Madras",
       "year": 2018,
       "cited_by": [
-        "p21",
-        "p102",
-        "p144"
+        "p35",
+        "p125",
+        "p140"
       ],
-      "num_citations": 1114,
+      "num_citations": 1116,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0016508518347632",
       "professor_id": "DpJp9HoAAAAJ"
     },
@@ -785,7 +783,7 @@
       "cited_by": [
         "p57"
       ],
-      "num_citations": 905,
+      "num_citations": 906,
       "scholar_id": "https://www.thelancet.com/article/S0140-6736(21)00676-0/fulltext",
       "professor_id": "DpJp9HoAAAAJ"
     },
@@ -795,9 +793,11 @@
       "institution": "IIT Madras",
       "year": 2014,
       "cited_by": [
-        "p21",
-        "p124",
-        "p143"
+        "p9",
+        "p35",
+        "p57",
+        "p108",
+        "p141"
       ],
       "num_citations": 786,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0016508514009196",
@@ -809,11 +809,11 @@
       "institution": "IIT Madras",
       "year": 2019,
       "cited_by": [
-        "p53",
-        "p57",
-        "p60"
+        "p121",
+        "p124",
+        "p128"
       ],
-      "num_citations": 672,
+      "num_citations": 676,
       "scholar_id": "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(19)30012-3/abstract",
       "professor_id": "DpJp9HoAAAAJ"
     },
@@ -835,7 +835,7 @@
       "institution": "IIT Madras",
       "year": 2022,
       "cited_by": [],
-      "num_citations": 626,
+      "num_citations": 628,
       "scholar_id": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00163-5/fulltext",
       "professor_id": "DpJp9HoAAAAJ"
     },
@@ -845,15 +845,19 @@
       "institution": "IIT Madras",
       "year": 2002,
       "cited_by": [
-        "p18",
-        "p34",
+        "p11",
+        "p13",
+        "p20",
+        "p38",
         "p61",
-        "p63",
-        "p88",
-        "p112",
-        "p133"
+        "p62",
+        "p66",
+        "p68",
+        "p73",
+        "p111",
+        "p151"
       ],
-      "num_citations": 396,
+      "num_citations": 397,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1470032802010881",
       "professor_id": "DpJp9HoAAAAJ"
     },
@@ -863,12 +867,11 @@
       "institution": "IIT Madras",
       "year": 2020,
       "cited_by": [
-        "p53",
+        "p56",
         "p57",
-        "p125",
-        "p144"
+        "p60"
       ],
-      "num_citations": 372,
+      "num_citations": 373,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0016508519414145",
       "professor_id": "DpJp9HoAAAAJ"
     },
@@ -877,7 +880,9 @@
       "author": "neil shah",
       "institution": "IIT Madras",
       "year": 2021,
-      "cited_by": [],
+      "cited_by": [
+        "p57"
+      ],
       "num_citations": 351,
       "scholar_id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7884931/",
       "professor_id": "DpJp9HoAAAAJ"
@@ -888,11 +893,12 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p13",
-        "p40",
-        "p43",
-        "p66",
-        "p112"
+        "p38",
+        "p67",
+        "p70",
+        "p74",
+        "p118",
+        "p134"
       ],
       "num_citations": 4027,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0098135402001606",
@@ -904,9 +910,12 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p17",
+        "p19",
+        "p27",
         "p66",
-        "p104"
+        "p69",
+        "p112",
+        "p165"
       ],
       "num_citations": 2597,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S009813540200162X",
@@ -918,12 +927,13 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p28",
-        "p40",
-        "p100",
-        "p112",
-        "p119",
-        "p133"
+        "p34",
+        "p45",
+        "p48",
+        "p66",
+        "p67",
+        "p70",
+        "p170"
       ],
       "num_citations": 1802,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0098135402001618",
@@ -935,9 +945,8 @@
       "institution": "IIT Madras",
       "year": 1995,
       "cited_by": [
-        "p23",
-        "p58",
-        "p80"
+        "p47",
+        "p58"
       ],
       "num_citations": 230,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/095219769400058U",
@@ -949,9 +958,17 @@
       "institution": "IIT Madras",
       "year": 1999,
       "cited_by": [
+        "p14",
+        "p18",
+        "p44",
+        "p61",
         "p62",
+        "p66",
         "p68",
-        "p76"
+        "p69",
+        "p76",
+        "p82",
+        "p85"
       ],
       "num_citations": 204,
       "scholar_id": "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.690450212",
@@ -963,11 +980,9 @@
       "institution": "IIT Madras",
       "year": 2007,
       "cited_by": [
-        "p67",
-        "p94",
-        "p97",
-        "p98",
-        "p161"
+        "p17",
+        "p24",
+        "p106"
       ],
       "num_citations": 199,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0952197606001126",
@@ -979,9 +994,8 @@
       "institution": "IIT Madras",
       "year": 2009,
       "cited_by": [
-        "p3",
-        "p99",
-        "p131"
+        "p24",
+        "p116"
       ],
       "num_citations": 194,
       "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/ie801664j",
@@ -993,12 +1007,12 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p12",
-        "p20",
+        "p38",
         "p66",
         "p70",
-        "p115",
-        "p161"
+        "p71",
+        "p96",
+        "p105"
       ],
       "num_citations": 194,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0098135402002144",
@@ -1010,10 +1024,11 @@
       "institution": "IIT Madras",
       "year": 2006,
       "cited_by": [
-        "p17",
-        "p48",
         "p67",
-        "p94"
+        "p91",
+        "p104",
+        "p164",
+        "p165"
       ],
       "num_citations": 191,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0959152406000783",
@@ -1025,13 +1040,12 @@
       "institution": "IIT Madras",
       "year": 2004,
       "cited_by": [
-        "p17",
-        "p38",
-        "p40",
-        "p81",
-        "p119",
+        "p12",
+        "p66",
+        "p74",
+        "p100",
         "p120",
-        "p162"
+        "p170"
       ],
       "num_citations": 190,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0952197604000260",
@@ -1043,16 +1057,16 @@
       "institution": "IIT Madras",
       "year": 2004,
       "cited_by": [
-        "p28",
-        "p38",
+        "p69",
         "p73",
         "p74",
-        "p95",
         "p96",
-        "p100"
+        "p97",
+        "p120",
+        "p163"
       ],
-      "num_citations": 2857,
-      "scholar_id": "https://books.google.com/books?hl=en&lr=&id=U-yLb-9nXyYC&oi=fnd&pg=PT17&dq=info:FawpBm3QulEJ:scholar.google.com&ots=Vz71FS6OFz&sig=K0WaamPHLV39zIf_1E3rUXOAi-U",
+      "num_citations": 2858,
+      "scholar_id": "https://books.google.com/books?hl=en&lr=&id=U-yLb-9nXyYC&oi=fnd&pg=PT17&dq=info:FawpBm3QulEJ:scholar.google.com&ots=Vz71HK6PEG&sig=4qDuDPdDo1-jV9daAO4nZl1BYTw",
       "professor_id": "VjJFBjcAAAAJ"
     },
     "p72": {
@@ -1061,9 +1075,12 @@
       "institution": "IIT Madras",
       "year": 2002,
       "cited_by": [
-        "p18",
-        "p45",
-        "p119"
+        "p20",
+        "p34",
+        "p38",
+        "p40",
+        "p62",
+        "p112"
       ],
       "num_citations": 654,
       "scholar_id": "https://cir.nii.ac.jp/crid/1130282272113021952",
@@ -1075,16 +1092,15 @@
       "institution": "IIT Madras",
       "year": 2006,
       "cited_by": [
-        "p48",
-        "p66",
+        "p45",
         "p74",
+        "p86",
         "p93",
-        "p96",
-        "p99",
-        "p100",
-        "p164"
+        "p95",
+        "p97",
+        "p100"
       ],
-      "num_citations": 378,
+      "num_citations": 379,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1570870504000459",
       "professor_id": "VjJFBjcAAAAJ"
     },
@@ -1094,16 +1110,11 @@
       "institution": "IIT Madras",
       "year": 2007,
       "cited_by": [
-        "p3",
         "p91",
-        "p92",
         "p93",
         "p94",
         "p95",
-        "p99",
-        "p100",
-        "p131",
-        "p163"
+        "p96"
       ],
       "num_citations": 286,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/4411825/",
@@ -1115,12 +1126,13 @@
       "institution": "IIT Madras",
       "year": 2001,
       "cited_by": [
-        "p11",
-        "p20",
+        "p18",
+        "p40",
         "p43",
+        "p61",
+        "p63",
         "p72",
-        "p95",
-        "p161"
+        "p76"
       ],
       "num_citations": 275,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/958325/",
@@ -1132,13 +1144,14 @@
       "institution": "IIT Madras",
       "year": 2002,
       "cited_by": [
-        "p61",
+        "p15",
+        "p18",
+        "p39",
+        "p69",
         "p71",
         "p73",
-        "p74",
-        "p81",
-        "p99",
-        "p100"
+        "p93",
+        "p169"
       ],
       "num_citations": 270,
       "scholar_id": "https://dl.acm.org/doi/abs/10.1145/513800.513804",
@@ -1150,10 +1163,11 @@
       "institution": "IIT Madras",
       "year": 1998,
       "cited_by": [
-        "p33",
+        "p30",
         "p44",
         "p66",
-        "p84"
+        "p69",
+        "p75"
       ],
       "num_citations": 265,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/674322/",
@@ -1166,8 +1180,8 @@
       "year": 1998,
       "cited_by": [
         "p30",
-        "p43",
-        "p85",
+        "p42",
+        "p46",
         "p120"
       ],
       "num_citations": 253,
@@ -1180,12 +1194,9 @@
       "institution": "IIT Madras",
       "year": 2000,
       "cited_by": [
-        "p14",
-        "p33",
-        "p34",
-        "p43",
-        "p72",
-        "p73"
+        "p39",
+        "p40",
+        "p75"
       ],
       "num_citations": 244,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/885667/",
@@ -1197,9 +1208,12 @@
       "institution": "IIT Madras",
       "year": 1997,
       "cited_by": [
-        "p50",
-        "p70",
-        "p72"
+        "p33",
+        "p58",
+        "p62",
+        "p71",
+        "p76",
+        "p77"
       ],
       "num_citations": 203,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/600888/",
@@ -1211,9 +1225,12 @@
       "institution": "IIT Madras",
       "year": 2007,
       "cited_by": [
+        "p17",
+        "p25",
         "p28",
-        "p95",
-        "p162"
+        "p89",
+        "p105",
+        "p118"
       ],
       "num_citations": 568,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946507000571",
@@ -1226,9 +1243,9 @@
       "year": 2001,
       "cited_by": [
         "p11",
-        "p12",
-        "p81",
-        "p88"
+        "p84",
+        "p88",
+        "p169"
       ],
       "num_citations": 528,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884601005105",
@@ -1240,9 +1257,7 @@
       "institution": "IIT Madras",
       "year": 2018,
       "cited_by": [
-        "p55",
-        "p56",
-        "p127"
+        "p166"
       ],
       "num_citations": 522,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884617308360",
@@ -1254,14 +1269,8 @@
       "institution": "IIT Madras",
       "year": 2002,
       "cited_by": [
-        "p15",
-        "p28",
-        "p45",
         "p61",
-        "p62",
-        "p85",
-        "p120",
-        "p134"
+        "p88"
       ],
       "num_citations": 521,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S000888460200724X",
@@ -1273,8 +1282,9 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p43",
-        "p115"
+        "p28",
+        "p31",
+        "p39"
       ],
       "num_citations": 485,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884602009584",
@@ -1286,13 +1296,10 @@
       "institution": "IIT Madras",
       "year": 2015,
       "cited_by": [
-        "p5",
-        "p55",
-        "p59",
-        "p83",
-        "p149"
+        "p140",
+        "p143"
       ],
-      "num_citations": 431,
+      "num_citations": 432,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946515000347",
       "professor_id": "bCnS1poAAAAJ"
     },
@@ -1302,7 +1309,8 @@
       "institution": "IIT Madras",
       "year": 2019,
       "cited_by": [
-        "p128"
+        "p102",
+        "p123"
       ],
       "num_citations": 424,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946518303275",
@@ -1314,9 +1322,11 @@
       "institution": "IIT Madras",
       "year": 2003,
       "cited_by": [
-        "p70",
-        "p91",
-        "p151"
+        "p31",
+        "p45",
+        "p95",
+        "p115",
+        "p133"
       ],
       "num_citations": 329,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884602009559",
@@ -1328,11 +1338,12 @@
       "institution": "IIT Madras",
       "year": 2015,
       "cited_by": [
-        "p7",
-        "p56",
+        "p55",
+        "p60",
         "p90",
-        "p129",
-        "p149"
+        "p121",
+        "p123",
+        "p129"
       ],
       "num_citations": 307,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946514002042",
@@ -1345,8 +1356,10 @@
       "year": 2017,
       "cited_by": [
         "p9",
-        "p59",
-        "p83"
+        "p26",
+        "p83",
+        "p123",
+        "p124"
       ],
       "num_citations": 289,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946516305583",
@@ -1358,15 +1371,12 @@
       "institution": "IIT Madras",
       "year": 2011,
       "cited_by": [
+        "p52",
         "p92",
         "p98",
-        "p104",
-        "p109",
-        "p110",
-        "p131",
-        "p156"
+        "p109"
       ],
-      "num_citations": 3497,
+      "num_citations": 3498,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6042301/",
       "professor_id": "ZKOZPcEAAAAJ"
     },
@@ -1376,11 +1386,10 @@
       "institution": "IIT Madras",
       "year": 2012,
       "cited_by": [
-        "p98",
-        "p127",
-        "p129",
-        "p139",
-        "p155"
+        "p52",
+        "p56",
+        "p121",
+        "p138"
       ],
       "num_citations": 1854,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6171996/",
@@ -1393,11 +1402,10 @@
       "year": 2009,
       "cited_by": [
         "p54",
-        "p92",
-        "p99",
-        "p104",
-        "p157",
-        "p167"
+        "p94",
+        "p95",
+        "p98",
+        "p99"
       ],
       "num_citations": 1124,
       "scholar_id": "https://www.nowpublishers.com/article/Details/NET-015",
@@ -1409,11 +1417,10 @@
       "institution": "IIT Madras",
       "year": 2011,
       "cited_by": [
-        "p3",
-        "p92",
-        "p137",
-        "p141",
-        "p155"
+        "p86",
+        "p89",
+        "p90",
+        "p139"
       ],
       "num_citations": 538,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6047548/",
@@ -1425,9 +1432,9 @@
       "institution": "IIT Madras",
       "year": 2010,
       "cited_by": [
-        "p24",
+        "p92",
         "p94",
-        "p104"
+        "p99"
       ],
       "num_citations": 507,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5621983/",
@@ -1439,9 +1446,11 @@
       "institution": "IIT Madras",
       "year": 2009,
       "cited_by": [
-        "p1",
+        "p24",
+        "p54",
         "p95",
-        "p98"
+        "p99",
+        "p137"
       ],
       "num_citations": 462,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5208529/",
@@ -1453,11 +1462,10 @@
       "institution": "IIT Madras",
       "year": 2010,
       "cited_by": [
-        "p25",
         "p91",
         "p92",
         "p94",
-        "p146"
+        "p98"
       ],
       "num_citations": 290,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5683973/",
@@ -1469,10 +1477,10 @@
       "institution": "IIT Madras",
       "year": 2013,
       "cited_by": [
-        "p89",
-        "p122",
-        "p140",
-        "p168"
+        "p9",
+        "p55",
+        "p137",
+        "p153"
       ],
       "num_citations": 269,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6477064/",
@@ -1484,10 +1492,12 @@
       "institution": "IIT Madras",
       "year": 2011,
       "cited_by": [
-        "p5",
-        "p21",
-        "p86",
-        "p104"
+        "p8",
+        "p55",
+        "p92",
+        "p109",
+        "p126",
+        "p159"
       ],
       "num_citations": 266,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5934342/",
@@ -1499,12 +1509,12 @@
       "institution": "IIT Madras",
       "year": 2009,
       "cited_by": [
+        "p24",
         "p91",
         "p94",
-        "p116",
-        "p141"
+        "p95"
       ],
-      "num_citations": 264,
+      "num_citations": 265,
       "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5282357/",
       "professor_id": "ZKOZPcEAAAAJ"
     },
@@ -1513,9 +1523,7 @@
       "author": "Dr. P SATHIYA",
       "institution": "NIT Trichy",
       "year": 2021,
-      "cited_by": [
-        "p144"
-      ],
+      "cited_by": [],
       "num_citations": 364,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0263823120311009",
       "professor_id": "H1jS8J4AAAAJ"
@@ -1536,13 +1544,20 @@
       "institution": "NIT Trichy",
       "year": 2007,
       "cited_by": [
-        "p19",
+        "p24",
+        "p28",
+        "p45",
+        "p91",
+        "p104",
         "p105",
         "p106",
+        "p109",
+        "p110",
+        "p114",
+        "p116",
         "p118",
-        "p135",
-        "p163",
-        "p170"
+        "p154",
+        "p161"
       ],
       "num_citations": 180,
       "scholar_id": "https://link.springer.com/article/10.1007/s00170-005-0285-5",
@@ -1556,12 +1571,9 @@
       "cited_by": [
         "p98",
         "p110",
-        "p122",
         "p135",
         "p136",
-        "p137",
-        "p143",
-        "p159"
+        "p138"
       ],
       "num_citations": 155,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306911007886",
@@ -1573,11 +1585,12 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p24",
-        "p99",
+        "p25",
+        "p83",
+        "p89",
         "p109",
         "p118",
-        "p137",
+        "p135",
         "p146"
       ],
       "num_citations": 150,
@@ -1590,50 +1603,55 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p86",
-        "p95",
+        "p104",
+        "p109",
+        "p110",
         "p135",
+        "p137",
         "p152",
-        "p165"
+        "p154"
       ],
       "num_citations": 144,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0924013608005025",
       "professor_id": "H1jS8J4AAAAJ"
     },
     "p107": {
-      "title": "Arduino ATMEGA-328 microcontroller",
-      "author": "Dr. P SATHIYA",
-      "institution": "NIT Trichy",
-      "year": 2015,
-      "cited_by": [
-        "p6",
-        "p7",
-        "p101",
-        "p126",
-        "p148"
-      ],
-      "num_citations": 124,
-      "scholar_id": "https://www.academia.edu/download/77541710/ijireeice.2015.pdf",
-      "professor_id": "H1jS8J4AAAAJ"
-    },
-    "p108": {
       "title": "Mechanical and metallurgical properties of friction welded AISI 304 austenitic stainless steel",
       "author": "Dr. P SATHIYA",
       "institution": "NIT Trichy",
       "year": 2005,
       "cited_by": [
-        "p13",
-        "p51",
-        "p93",
+        "p28",
+        "p38",
+        "p45",
+        "p69",
+        "p81",
         "p103",
+        "p104",
         "p105",
-        "p118",
-        "p146",
-        "p159",
-        "p162"
+        "p167"
+      ],
+      "num_citations": 125,
+      "scholar_id": "https://link.springer.com/article/10.1007/s00170-004-2018-6",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p108": {
+      "title": "Arduino ATMEGA-328 microcontroller",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2015,
+      "cited_by": [
+        "p5",
+        "p8",
+        "p26",
+        "p29",
+        "p83",
+        "p102",
+        "p130",
+        "p149"
       ],
       "num_citations": 124,
-      "scholar_id": "https://link.springer.com/article/10.1007/s00170-004-2018-6",
+      "scholar_id": "https://www.academia.edu/download/77541710/ijireeice.2015.pdf",
       "professor_id": "H1jS8J4AAAAJ"
     },
     "p109": {
@@ -1642,11 +1660,12 @@
       "institution": "NIT Trichy",
       "year": 2012,
       "cited_by": [
-        "p83",
-        "p110",
         "p135",
-        "p153",
-        "p168"
+        "p136",
+        "p137",
+        "p140",
+        "p148",
+        "p153"
       ],
       "num_citations": 121,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306911004730",
@@ -1658,9 +1677,10 @@
       "institution": "NIT Trichy",
       "year": 2014,
       "cited_by": [
-        "p129",
-        "p136",
-        "p138"
+        "p10",
+        "p138",
+        "p145",
+        "p168"
       ],
       "num_citations": 118,
       "scholar_id": "https://link.springer.com/article/10.1007/s10845-012-0675-0",
@@ -1672,13 +1692,16 @@
       "institution": "NIT Trichy",
       "year": 2003,
       "cited_by": [
-        "p13",
-        "p48",
+        "p19",
+        "p31",
+        "p34",
+        "p38",
+        "p103",
         "p105",
-        "p108",
-        "p115",
-        "p120",
-        "p133"
+        "p116",
+        "p119",
+        "p134",
+        "p161"
       ],
       "num_citations": 639,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509303000777",
@@ -1690,10 +1713,12 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p104",
+        "p24",
         "p116",
         "p117",
-        "p159"
+        "p118",
+        "p164",
+        "p169"
       ],
       "num_citations": 358,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0013468609002229",
@@ -1705,13 +1730,16 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
+        "p1",
+        "p24",
+        "p92",
         "p109",
         "p116",
+        "p117",
         "p118",
-        "p143",
-        "p155",
-        "p167",
-        "p169"
+        "p131",
+        "p156",
+        "p164"
       ],
       "num_citations": 308,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0010938X0900287X",
@@ -1723,13 +1751,15 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p24",
-        "p89",
+        "p8",
+        "p91",
+        "p95",
         "p109",
         "p116",
+        "p117",
         "p118",
         "p131",
-        "p135"
+        "p169"
       ],
       "num_citations": 283,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0169433208023283",
@@ -1741,12 +1771,14 @@
       "institution": "NIT Trichy",
       "year": 2005,
       "cited_by": [
-        "p16",
-        "p19",
-        "p45",
-        "p96",
+        "p38",
         "p103",
-        "p152"
+        "p105",
+        "p114",
+        "p116",
+        "p118",
+        "p134",
+        "p159"
       ],
       "num_citations": 197,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0167577X05002508",
@@ -1758,16 +1790,11 @@
       "institution": "NIT Trichy",
       "year": 2010,
       "cited_by": [
-        "p24",
-        "p94",
-        "p98",
-        "p104",
+        "p6",
+        "p92",
         "p109",
-        "p126",
-        "p139",
-        "p146",
-        "p149",
-        "p157"
+        "p131",
+        "p148"
       ],
       "num_citations": 171,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0169433210000796",
@@ -1779,13 +1806,10 @@
       "institution": "NIT Trichy",
       "year": 2010,
       "cited_by": [
-        "p89",
         "p94",
-        "p107",
-        "p137",
-        "p141",
-        "p150",
-        "p154"
+        "p131",
+        "p154",
+        "p167"
       ],
       "num_citations": 169,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0013468610007899",
@@ -1798,9 +1822,7 @@
       "year": 2010,
       "cited_by": [
         "p109",
-        "p146",
-        "p159",
-        "p167"
+        "p146"
       ],
       "num_citations": 155,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0925838809025493",
@@ -1812,10 +1834,13 @@
       "institution": "NIT Trichy",
       "year": 2006,
       "cited_by": [
-        "p48",
-        "p118",
-        "p159",
-        "p165"
+        "p16",
+        "p27",
+        "p112",
+        "p114",
+        "p117",
+        "p146",
+        "p151"
       ],
       "num_citations": 145,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306904002729",
@@ -1827,10 +1852,11 @@
       "institution": "NIT Trichy",
       "year": 2005,
       "cited_by": [
-        "p106",
-        "p118",
-        "p131",
-        "p134"
+        "p103",
+        "p113",
+        "p114",
+        "p119",
+        "p131"
       ],
       "num_citations": 144,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509304011785",
@@ -1843,8 +1869,7 @@
       "year": 2020,
       "cited_by": [
         "p53",
-        "p57",
-        "p102"
+        "p125"
       ],
       "num_citations": 466,
       "scholar_id": "https://link.springer.com/article/10.1007/S10965-019-1975-2",
@@ -1856,6 +1881,9 @@
       "institution": "NIT Trichy",
       "year": 2019,
       "cited_by": [
+        "p60",
+        "p101",
+        "p102",
         "p125",
         "p127",
         "p128"
@@ -1869,10 +1897,8 @@
       "author": "Lenin Singaravelu D",
       "institution": "NIT Trichy",
       "year": 2020,
-      "cited_by": [
-        "p128"
-      ],
-      "num_citations": 207,
+      "cited_by": [],
+      "num_citations": 208,
       "scholar_id": "https://journals.sagepub.com/doi/abs/10.1177/1528083718804207",
       "professor_id": "s27Hus0AAAAJ"
     },
@@ -1882,8 +1908,7 @@
       "institution": "NIT Trichy",
       "year": 2020,
       "cited_by": [
-        "p57",
-        "p144"
+        "p57"
       ],
       "num_citations": 162,
       "scholar_id": "https://journals.sagepub.com/doi/abs/10.1177/1528083719832851",
@@ -1895,7 +1920,7 @@
       "institution": "NIT Trichy",
       "year": 2021,
       "cited_by": [],
-      "num_citations": 153,
+      "num_citations": 154,
       "scholar_id": "https://www.tandfonline.com/doi/shareview/10.1080/15440478.2019.1612308",
       "professor_id": "s27Hus0AAAAJ"
     },
@@ -1905,7 +1930,8 @@
       "institution": "NIT Trichy",
       "year": 2019,
       "cited_by": [
-        "p144"
+        "p123",
+        "p128"
       ],
       "num_citations": 152,
       "scholar_id": "https://journals.lww.com/jhns/fulltext/2019/07001/FHNO_2019_Abstract_Edition.117.aspx",
@@ -1927,7 +1953,7 @@
       "institution": "NIT Trichy",
       "year": 2021,
       "cited_by": [],
-      "num_citations": 136,
+      "num_citations": 137,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S2588840420300457",
       "professor_id": "s27Hus0AAAAJ"
     },
@@ -1937,10 +1963,8 @@
       "institution": "NIT Trichy",
       "year": 2019,
       "cited_by": [
-        "p56",
-        "p121",
         "p124",
-        "p158"
+        "p127"
       ],
       "num_citations": 125,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0043164818316004",
@@ -1953,8 +1977,7 @@
       "year": 2019,
       "cited_by": [
         "p125",
-        "p127",
-        "p128"
+        "p127"
       ],
       "num_citations": 119,
       "scholar_id": "https://iopscience.iop.org/article/10.1088/2053-1591/ab22d9/meta",
@@ -1966,12 +1989,10 @@
       "institution": "NIT Trichy",
       "year": 2012,
       "cited_by": [
-        "p110",
-        "p126",
-        "p130",
-        "p141",
-        "p149",
-        "p154"
+        "p1",
+        "p5",
+        "p137",
+        "p141"
       ],
       "num_citations": 854,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0272884211007073",
@@ -1983,17 +2004,16 @@
       "institution": "NIT Trichy",
       "year": 2003,
       "cited_by": [
-        "p13",
-        "p19",
-        "p34",
+        "p38",
+        "p81",
+        "p100",
         "p103",
         "p105",
-        "p108",
-        "p116",
-        "p120",
-        "p133",
-        "p134",
-        "p163"
+        "p107",
+        "p115",
+        "p118",
+        "p119",
+        "p133"
       ],
       "num_citations": 639,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509303000777",
@@ -2005,15 +2025,15 @@
       "institution": "NIT Trichy",
       "year": 2005,
       "cited_by": [
-        "p31",
         "p34",
-        "p73",
-        "p81",
-        "p105",
+        "p96",
+        "p103",
+        "p109",
+        "p114",
+        "p116",
+        "p117",
         "p118",
-        "p134",
-        "p151",
-        "p161"
+        "p159"
       ],
       "num_citations": 197,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0167577X05002508",
@@ -2025,18 +2045,16 @@
       "institution": "NIT Trichy",
       "year": 2006,
       "cited_by": [
-        "p12",
+        "p19",
+        "p25",
         "p45",
-        "p95",
-        "p100",
-        "p103",
-        "p105",
-        "p112",
+        "p67",
+        "p108",
         "p113",
         "p114",
-        "p117",
-        "p118",
-        "p170"
+        "p131",
+        "p160",
+        "p161"
       ],
       "num_citations": 146,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306904002729",
@@ -2048,12 +2066,14 @@
       "institution": "NIT Trichy",
       "year": 2014,
       "cited_by": [
+        "p3",
+        "p29",
+        "p56",
         "p87",
-        "p90",
+        "p122",
         "p136",
-        "p143",
-        "p149",
-        "p154"
+        "p138",
+        "p150"
       ],
       "num_citations": 143,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S2211812814007718",
@@ -2065,14 +2085,13 @@
       "institution": "NIT Trichy",
       "year": 2016,
       "cited_by": [
-        "p121",
+        "p55",
+        "p60",
+        "p102",
         "p127",
-        "p129",
-        "p130",
         "p138",
-        "p142",
-        "p158",
-        "p168"
+        "p140",
+        "p155"
       ],
       "num_citations": 134,
       "scholar_id": "https://link.springer.com/article/10.1007/s11661-015-3210-z",
@@ -2084,14 +2103,12 @@
       "institution": "NIT Trichy",
       "year": 2014,
       "cited_by": [
-        "p3",
         "p26",
-        "p102",
-        "p123",
-        "p129",
-        "p141",
-        "p142",
-        "p154"
+        "p55",
+        "p86",
+        "p90",
+        "p136",
+        "p155"
       ],
       "num_citations": 117,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S221181281400769X",
@@ -2103,11 +2120,10 @@
       "institution": "NIT Trichy",
       "year": 2017,
       "cited_by": [
-        "p122",
-        "p126",
         "p129",
-        "p130",
-        "p140"
+        "p140",
+        "p144",
+        "p147"
       ],
       "num_citations": 93,
       "scholar_id": "https://link.springer.com/article/10.1007/s12666-017-1114-x",
@@ -2119,14 +2135,9 @@
       "institution": "NIT Trichy",
       "year": 2017,
       "cited_by": [
-        "p4",
-        "p59",
-        "p60",
-        "p124",
-        "p125",
-        "p126",
-        "p129",
-        "p140"
+        "p29",
+        "p140",
+        "p150"
       ],
       "num_citations": 88,
       "scholar_id": "https://link.springer.com/article/10.1007/S11661-017-4140-8",
@@ -2138,10 +2149,9 @@
       "institution": "NIT Trichy",
       "year": 2019,
       "cited_by": [
-        "p59",
-        "p101"
+        "p35"
       ],
-      "num_citations": 80,
+      "num_citations": 81,
       "scholar_id": "https://www.cambridge.org/core/journals/journal-of-materials-research/article/dissimilar-welding-of-al01cocrfeni-highentropy-alloy-and-aisi304-stainless-steel/F1F21837B61D5BBCDF8F3457374E52F1",
       "professor_id": "EXuozuEAAAAJ"
     },
@@ -2151,11 +2161,8 @@
       "institution": "NIT Trichy",
       "year": 2016,
       "cited_by": [
-        "p4",
         "p52",
-        "p123",
-        "p128",
-        "p166",
+        "p138",
         "p168"
       ],
       "num_citations": 527,
@@ -2168,7 +2175,8 @@
       "institution": "NIT Trichy",
       "year": 2018,
       "cited_by": [
-        "p123"
+        "p125",
+        "p166"
       ],
       "num_citations": 285,
       "scholar_id": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201705148",
@@ -2180,11 +2188,11 @@
       "institution": "NIT Trichy",
       "year": 2016,
       "cited_by": [
-        "p6",
-        "p26",
+        "p4",
+        "p7",
+        "p122",
         "p126",
-        "p145",
-        "p150"
+        "p158"
       ],
       "num_citations": 260,
       "scholar_id": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201600237",
@@ -2206,9 +2214,10 @@
       "institution": "NIT Trichy",
       "year": 2017,
       "cited_by": [
-        "p87",
-        "p127",
-        "p130"
+        "p52",
+        "p140",
+        "p142",
+        "p150"
       ],
       "num_citations": 170,
       "scholar_id": "https://pubs.rsc.org/en/content/articlehtml/2017/se/c7se00403f",
@@ -2220,11 +2229,12 @@
       "institution": "NIT Trichy",
       "year": 2012,
       "cited_by": [
+        "p2",
+        "p6",
+        "p89",
         "p110",
-        "p137",
-        "p139",
-        "p141",
-        "p145"
+        "p135",
+        "p136"
       ],
       "num_citations": 160,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0925838812013151",
@@ -2236,11 +2246,8 @@
       "institution": "NIT Trichy",
       "year": 2018,
       "cited_by": [
-        "p26",
-        "p60",
-        "p102",
-        "p127",
-        "p129"
+        "p57",
+        "p101"
       ],
       "num_citations": 135,
       "scholar_id": "https://pubs.rsc.org/en/content/articlehtml/2018/ee/c7ee03429f",
@@ -2252,14 +2259,13 @@
       "institution": "NIT Trichy",
       "year": 2016,
       "cited_by": [
-        "p21",
-        "p129",
-        "p130",
+        "p59",
+        "p125",
         "p139",
         "p145",
         "p150"
       ],
-      "num_citations": 127,
+      "num_citations": 128,
       "scholar_id": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16146832&AN=120306665&h=VMlKKaBmHHLruWwF%2Bs8DqqPQ366CCoWohB9r2PbHdD%2FtL6rDf2zmyDxSd3GEqudn1FfB7ai825BlxsvmSll45Q%3D%3D&crl=c",
       "professor_id": "_WgoH_gAAAAJ"
     },
@@ -2269,18 +2275,11 @@
       "institution": "NIT Trichy",
       "year": 2016,
       "cited_by": [
-        "p6",
-        "p7",
-        "p35",
-        "p52",
-        "p83",
-        "p87",
-        "p124",
-        "p125",
-        "p139",
-        "p147"
+        "p2",
+        "p5",
+        "p130"
       ],
-      "num_citations": 80,
+      "num_citations": 81,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1452398123174645",
       "professor_id": "_WgoH_gAAAAJ"
     },
@@ -2290,10 +2289,10 @@
       "institution": "NIT Trichy",
       "year": 2018,
       "cited_by": [
-        "p21",
-        "p123",
-        "p124",
-        "p140"
+        "p101",
+        "p125",
+        "p129",
+        "p144"
       ],
       "num_citations": 75,
       "scholar_id": "https://www.cambridge.org/core/journals/journal-of-materials-research/article/leadfree-piezoelectric-materials-and-composites-for-high-power-density-energy-harvesting/A7A1E72CC092A8208C2861D03B2905C9",
@@ -2305,10 +2304,9 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p37",
-        "p99",
-        "p131",
-        "p164"
+        "p89",
+        "p95",
+        "p153"
       ],
       "num_citations": 629,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032107001141",
@@ -2320,10 +2318,12 @@
       "institution": "NIT Trichy",
       "year": 2012,
       "cited_by": [
-        "p10",
-        "p87"
+        "p129",
+        "p153",
+        "p155",
+        "p156"
       ],
-      "num_citations": 190,
+      "num_citations": 192,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032112003930",
       "professor_id": "YL5LvsUAAAAJ"
     },
@@ -2332,7 +2332,9 @@
       "author": "Premalatha Manikam",
       "institution": "NIT Trichy",
       "year": 2014,
-      "cited_by": [],
+      "cited_by": [
+        "p141"
+      ],
       "num_citations": 123,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0048969713013302",
       "professor_id": "YL5LvsUAAAAJ"
@@ -2343,12 +2345,11 @@
       "institution": "NIT Trichy",
       "year": 2015,
       "cited_by": [
-        "p1",
-        "p53",
         "p122",
-        "p125",
-        "p130",
-        "p136"
+        "p128",
+        "p136",
+        "p140",
+        "p142"
       ],
       "num_citations": 122,
       "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/15567036.2013.825661",
@@ -2360,9 +2361,7 @@
       "institution": "NIT Trichy",
       "year": 2018,
       "cited_by": [
-        "p55",
-        "p57",
-        "p101"
+        "p130"
       ],
       "num_citations": 119,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032118301953",
@@ -2374,11 +2373,9 @@
       "institution": "NIT Trichy",
       "year": 2014,
       "cited_by": [
-        "p10",
-        "p138",
-        "p143",
-        "p154",
-        "p168"
+        "p5",
+        "p129",
+        "p143"
       ],
       "num_citations": 97,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032114003876",
@@ -2390,10 +2387,7 @@
       "institution": "NIT Trichy",
       "year": 2011,
       "cited_by": [
-        "p104",
-        "p141",
-        "p142",
-        "p146"
+        "p122"
       ],
       "num_citations": 78,
       "scholar_id": "https://www.academia.edu/download/23606270/An_overview_of_CO2_mitigation_using_Algal_Cultivation_Technology.pdf",
@@ -2404,9 +2398,7 @@
       "author": "Premalatha Manikam",
       "institution": "NIT Trichy",
       "year": 2021,
-      "cited_by": [
-        "p144"
-      ],
+      "cited_by": [],
       "num_citations": 77,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0959652621003267",
       "professor_id": "YL5LvsUAAAAJ"
@@ -2417,12 +2409,11 @@
       "institution": "NIT Trichy",
       "year": 2013,
       "cited_by": [
-        "p9",
-        "p89",
-        "p130",
-        "p135",
-        "p142",
-        "p145"
+        "p29",
+        "p136",
+        "p141",
+        "p147",
+        "p155"
       ],
       "num_citations": 74,
       "scholar_id": "https://link.springer.com/article/10.1186/2251-6832-4-21",
@@ -2433,9 +2424,7 @@
       "author": "Premalatha Manikam",
       "institution": "NIT Trichy",
       "year": 2012,
-      "cited_by": [
-        "p110"
-      ],
+      "cited_by": [],
       "num_citations": 69,
       "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/15567036.2011.645121",
       "professor_id": "YL5LvsUAAAAJ"
@@ -2447,12 +2436,14 @@
       "year": 2009,
       "cited_by": [
         "p117",
-        "p135",
-        "p160",
+        "p131",
+        "p137",
+        "p143",
+        "p145",
         "p164",
         "p167"
       ],
-      "num_citations": 379,
+      "num_citations": 378,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040402009015385",
       "professor_id": "YKSfgC0AAAAJ"
     },
@@ -2462,14 +2453,10 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p37",
-        "p94",
-        "p110",
-        "p118",
+        "p98",
+        "p117",
         "p164",
-        "p165",
-        "p167",
-        "p169"
+        "p165"
       ],
       "num_citations": 283,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040402009008709",
@@ -2481,10 +2468,12 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p137",
-        "p149",
-        "p159",
-        "p164"
+        "p48",
+        "p92",
+        "p109",
+        "p153",
+        "p164",
+        "p165"
       ],
       "num_citations": 179,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403909020000",
@@ -2496,9 +2485,10 @@
       "institution": "NIT Trichy",
       "year": 2010,
       "cited_by": [
-        "p131",
-        "p137",
-        "p145"
+        "p21",
+        "p94",
+        "p109",
+        "p167"
       ],
       "num_citations": 172,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403910014644",
@@ -2510,14 +2500,13 @@
       "institution": "NIT Trichy",
       "year": 2010,
       "cited_by": [
-        "p91",
-        "p94",
-        "p156",
-        "p157",
-        "p167"
+        "p8",
+        "p54",
+        "p135",
+        "p137"
       ],
       "num_citations": 134,
-      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403909021844",
+      "scholar_id": "https://www.academia.edu/download/69645871/j.tetlet.2009.11.06420210914-26986-nxtue4.pdf",
       "professor_id": "YKSfgC0AAAAJ"
     },
     "p166": {
@@ -2525,10 +2514,7 @@
       "author": "Ganesh Chandra Nandi",
       "institution": "NIT Trichy",
       "year": 2019,
-      "cited_by": [
-        "p57",
-        "p128"
-      ],
+      "cited_by": [],
       "num_citations": 103,
       "scholar_id": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201900001",
       "professor_id": "YKSfgC0AAAAJ"
@@ -2539,11 +2525,8 @@
       "institution": "NIT Trichy",
       "year": 2011,
       "cited_by": [
-        "p25",
-        "p109",
-        "p110",
-        "p153",
-        "p159"
+        "p54",
+        "p160"
       ],
       "num_citations": 103,
       "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jo200685e",
@@ -2555,8 +2538,11 @@
       "institution": "NIT Trichy",
       "year": 2018,
       "cited_by": [
-        "p26",
-        "p166"
+        "p21",
+        "p123",
+        "p127",
+        "p129",
+        "p130"
       ],
       "num_citations": 102,
       "scholar_id": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/adsc.201800273",
@@ -2568,10 +2554,6 @@
       "institution": "NIT Trichy",
       "year": 2010,
       "cited_by": [
-        "p99",
-        "p104",
-        "p146",
-        "p155",
         "p167"
       ],
       "num_citations": 102,
@@ -2584,11 +2566,14 @@
       "institution": "NIT Trichy",
       "year": 2009,
       "cited_by": [
-        "p116",
-        "p118",
+        "p25",
+        "p48",
+        "p99",
+        "p108",
+        "p141",
         "p164",
         "p165",
-        "p167"
+        "p169"
       ],
       "num_citations": 88,
       "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403909019571",

@@ -1,0 +1,294 @@
+Citation Network Analysis Report
+==================================================
+
+Generated on: 2025-03-10 21:28:26
+Institutions analyzed: IIT Madras, NIT Trichy
+
+1. Network Overview
+==============================
+Total papers: 170
+Total citations: 724
+
+2. Papers by Institution
+==============================
+IIT Madras: 100 papers
+NIT Trichy: 70 papers
+
+3. Network Centrality Measures
+==============================
+
+PageRank:
+  Average: 0.0059
+  Maximum: 0.0292
+  Top 5 Papers:
+    - Locating sensors in complex chemical plants based ... (IIT Madras): 0.0292
+    - Task allocation algorithms for maximizing reliabil... (IIT Madras): 0.0286
+    - An efficient dynamic scheduling algorithm for mult... (IIT Madras): 0.0245
+    - Efficient algorithms for routing dependable connec... (IIT Madras): 0.0238
+    - Efficient dispatching rules for scheduling in a jo... (IIT Madras): 0.0213
+
+Citation Count:
+  Average: 4.2588
+  Maximum: 14.0000
+  Top 5 Papers:
+    - Effect of friction welding parameters on mechanica... (NIT Trichy): 14.0000
+    - Accuracy of outpatient endometrial biopsy in the d... (IIT Madras): 11.0000
+    - Locating sensors in complex chemical plants based ... (IIT Madras): 11.0000
+    - Effect of weld metal chemistry and heat input on t... (NIT Trichy): 10.0000
+    - Comparison of electrochemical corrosion behaviour ... (NIT Trichy): 10.0000
+
+Eigenvector Centrality:
+  Average: 0.0615
+  Maximum: 0.2508
+  Top 5 Papers:
+    - Effect of friction welding parameters on mechanica... (NIT Trichy): 0.2508
+    - Effect of shielding gases on microstructure and me... (NIT Trichy): 0.2238
+    - Effect of current density on the microstructure an... (NIT Trichy): 0.1996
+    - Characterisation of microstructure, mechanical pro... (NIT Trichy): 0.1824
+    - Effect of shielding gases on mechanical and metall... (NIT Trichy): 0.1704
+
+Betweenness Centrality:
+  Average: 0.0035
+  Maximum: 0.0149
+  Top 5 Papers:
+    - Effect of shielding gases on microstructure and me... (NIT Trichy): 0.0149
+    - Properties of friction welding titanium-stainless ... (NIT Trichy): 0.0145
+    - Effect of friction welding parameters on mechanica... (NIT Trichy): 0.0119
+    - Arduino ATMEGA-328 microcontroller... (NIT Trichy): 0.0115
+    - Low-Loss Piezoelectric Single-Crystal Fibers for E... (NIT Trichy): 0.0110
+
+Closeness Centrality:
+  Average: 0.1170
+  Maximum: 0.2868
+  Top 5 Papers:
+    - Task allocation algorithms for maximizing reliabil... (IIT Madras): 0.2868
+    - Locating sensors in complex chemical plants based ... (IIT Madras): 0.2867
+    - Accuracy of outpatient endometrial biopsy in the d... (IIT Madras): 0.2708
+    - Effect of weld metal chemistry and heat input on t... (NIT Trichy): 0.2679
+    - An efficient dynamic scheduling algorithm for mult... (IIT Madras): 0.2679
+
+Hub Score:
+  Average: 0.0059
+  Maximum: 0.0455
+  Top 5 Papers:
+    - Characterisation of microstructure, mechanical pro... (NIT Trichy): 0.0455
+    - Effect of shielding gases on microstructure and me... (NIT Trichy): 0.0382
+    - Effect of pulse frequency on the microstructure, p... (NIT Trichy): 0.0348
+    - Optical properties of SnO2 nanoparticles and nanor... (IIT Madras): 0.0301
+    - Effect of shielding gases on mechanical and metall... (NIT Trichy): 0.0289
+
+Authority Score:
+  Average: 0.0059
+  Maximum: 0.0482
+  Top 5 Papers:
+    - Effect of friction welding parameters on mechanica... (NIT Trichy): 0.0482
+    - Comparison of electrochemical corrosion behaviour ... (NIT Trichy): 0.0347
+    - Effect of nickel and nitrogen addition on the micr... (NIT Trichy): 0.0343
+    - Effect of current density on the microstructure an... (NIT Trichy): 0.0316
+    - Effect of nickel and nitrogen addition on the micr... (NIT Trichy): 0.0313
+
+4. Cross-institution Analysis
+==============================
+
+Citation Matrix:
+            NIT Trichy  IIT Madras
+NIT Trichy         212          89
+IIT Madras         122         301
+
+5. Professor Statistics
+==============================
+
+Aggregate Statistics:
+Total professors: 17
+Average papers per professor: 10.00
+Average citations per professor: 42.59
+
+Individual Statistics:
+
+Chandra Kant Mishra IITM (IIT Madras):
+  Papers: 10
+  Citations: 49
+  Avg Citations/Paper: 4.90
+
+Sarit Kumar Das (IIT Madras):
+  Papers: 10
+  Citations: 29
+  Avg Citations/Paper: 2.90
+
+BS Murty (IIT Madras):
+  Papers: 10
+  Citations: 28
+  Avg Citations/Paper: 2.80
+
+Satabda Chaudhuri (IIT Madras):
+  Papers: 10
+  Citations: 50
+  Avg Citations/Paper: 5.00
+
+chandrasekharan rajendran (IIT Madras):
+  Papers: 10
+  Citations: 43
+  Avg Citations/Paper: 4.30
+
+neil shah (IIT Madras):
+  Papers: 10
+  Citations: 33
+  Avg Citations/Paper: 3.30
+
+Raghunathan Rengaswamy (IIT Madras):
+  Papers: 10
+  Citations: 54
+  Avg Citations/Paper: 5.40
+
+C. Siva Ram Murthy (IIT Madras):
+  Papers: 10
+  Citations: 58
+  Avg Citations/Paper: 5.80
+
+Manu Santhanam (IIT Madras):
+  Papers: 10
+  Citations: 36
+  Avg Citations/Paper: 3.60
+
+RadhaKrishna Ganti (IIT Madras):
+  Papers: 10
+  Citations: 43
+  Avg Citations/Paper: 4.30
+
+Dr. P SATHIYA (NIT Trichy):
+  Papers: 10
+  Citations: 60
+  Avg Citations/Paper: 6.00
+
+P. Bala Srinivasan (NIT Trichy):
+  Papers: 10
+  Citations: 66
+  Avg Citations/Paper: 6.60
+
+Lenin Singaravelu D (NIT Trichy):
+  Papers: 10
+  Citations: 15
+  Avg Citations/Paper: 1.50
+
+Veerappan Muthupandi (NIT Trichy):
+  Papers: 10
+  Citations: 62
+  Avg Citations/Paper: 6.20
+
+Dr. Annapureddy Venkateswarlu (NIT Trichy):
+  Papers: 10
+  Citations: 34
+  Avg Citations/Paper: 3.40
+
+Premalatha Manikam (NIT Trichy):
+  Papers: 10
+  Citations: 23
+  Avg Citations/Paper: 2.30
+
+Ganesh Chandra Nandi (NIT Trichy):
+  Papers: 10
+  Citations: 41
+  Avg Citations/Paper: 4.10
+
+6. Temporal Analysis
+==============================
+
+Year-wise Statistics:
+Year 1992:
+  Papers: 1
+  Citations: 0
+Year 1995:
+  Papers: 1
+  Citations: 2
+Year 1997:
+  Papers: 2
+  Citations: 9
+Year 1998:
+  Papers: 3
+  Citations: 10
+Year 1999:
+  Papers: 2
+  Citations: 15
+Year 2000:
+  Papers: 2
+  Citations: 9
+Year 2001:
+  Papers: 5
+  Citations: 26
+Year 2002:
+  Papers: 7
+  Citations: 41
+Year 2003:
+  Papers: 13
+  Citations: 67
+Year 2004:
+  Papers: 4
+  Citations: 20
+Year 2005:
+  Papers: 6
+  Citations: 46
+Year 2006:
+  Papers: 8
+  Citations: 49
+Year 2007:
+  Papers: 6
+  Citations: 43
+Year 2008:
+  Papers: 3
+  Citations: 16
+Year 2009:
+  Papers: 18
+  Citations: 98
+Year 2010:
+  Papers: 10
+  Citations: 31
+Year 2011:
+  Papers: 6
+  Citations: 18
+Year 2012:
+  Papers: 8
+  Citations: 31
+Year 2013:
+  Papers: 2
+  Citations: 9
+Year 2014:
+  Papers: 6
+  Citations: 27
+Year 2015:
+  Papers: 5
+  Citations: 25
+Year 2016:
+  Papers: 7
+  Citations: 40
+Year 2017:
+  Papers: 9
+  Citations: 40
+Year 2018:
+  Papers: 9
+  Citations: 19
+Year 2019:
+  Papers: 11
+  Citations: 23
+Year 2020:
+  Papers: 4
+  Citations: 6
+Year 2021:
+  Papers: 10
+  Citations: 4
+Year 2022:
+  Papers: 1
+  Citations: 0
+Year 2023:
+  Papers: 1
+  Citations: 0
+
+7. Visualization Reference
+==============================
+
+The following visualizations have been generated:
+1. Citation Network Visualization (citation_network.png)
+2. Institution Citation Matrix (institution_matrix.png)
+3. Professor Citation Analysis (professor_citations.png)
+4. Citation Trends (citation_trends.png)
+5. Centrality Distributions (centrality_distributions.png)
+6. Various Metric-specific Visualizations
